@@ -70,10 +70,15 @@ Coming soon ...
 If you use these models in your research, please cite:
 
 @inproceedings{wang2017learning,
+  
   title={Adaptively Connected Neural Networks},
+  
   author={Wang, Guangrun and Wang, Keze and Lin, Liang},
+  
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  
   year={2019}
+
 }
 
 # Dependencies
