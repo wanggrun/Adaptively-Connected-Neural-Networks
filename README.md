@@ -32,7 +32,11 @@ This repository contains the training & testing code on [ImageNet](http://image-
    ![curves](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/error.jpg)
 	   
 	   
-   
+	   
+	   
+	   
+	   
+	   
 
 + ImageNet accuracy and pretrained model:
 
