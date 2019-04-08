@@ -43,8 +43,8 @@ This repository contains the training & testing code on [ImageNet](http://image-
 | Model            | Top 5 Error | Top 1 Error | Download                                                                          |
 |:-----------------|:------------|:-----------:|:---------------------------------------------------------------------------------:|
 | ResNet50         | 6.9%       | 23.6%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50.npz)         |
-| ResNet50-ACNet   | 6.4%       | 22.5%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50-SE.npz)      |
-| ResNet50-ACNet-pixel-aware| 6.4%       | 22.5%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet101.npz)        |
+| ResNet50-ACNet   | 6.4%       | 22.5%      | [:arrow_down:](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/edit/master/README.md)      |
+| ResNet50-ACNet-pixel-aware| 6.4%       | 22.5%      | [:arrow_down:]https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/edit/master/README.md)        |
 
 
 + Training script:
