@@ -5,6 +5,8 @@ A re-implementation of our CVPR 2019 paper "Adaptively Connected Neural Networks
 
 Sun Yat-sen University (SYSU)
 
+![intro](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/error.jpg)
+
 ### Table of Contents
 0. [Introduction](#introduction)
 0. [ImageNet](#imagenet)
