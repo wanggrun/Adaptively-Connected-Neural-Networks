@@ -22,17 +22,14 @@ This repository contains the training & testing code on [ImageNet](http://image-
 
    ![curves](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/intro.jpg)
    
-   
+
++ Table
 
 | Model            | Top 5 Error | Top 1 Error | Download                                                                          |
 |:-----------------|:------------|:-----------:|:---------------------------------------------------------------------------------:|
-| ResNet18         | 10.50%      | 29.66%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet18.npz)         |
-| ResNet34         | 8.56%       | 26.17%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet34.npz)         |
 | ResNet50         | 6.85%       | 23.61%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50.npz)         |
-| ResNet50-SE      | 6.24%       | 22.64%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50-SE.npz)      |
-| ResNet101        | 6.04%       | 21.95%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet101.npz)        |
-| ResNeXt101-32x4d | 5.73%       | 21.05%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNeXt101-32x4d.npz) |
-| ResNet152        | 5.78%       | 21.51%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet152.npz)        |
+| ResNet50-ACNet   | 6.24%       | 22.64%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50-SE.npz)      |
+| ResNet50-ACNet-pixel-aware| 6.04%       | 21.95%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet101.npz)        |
 
 ### ImageNet
 
