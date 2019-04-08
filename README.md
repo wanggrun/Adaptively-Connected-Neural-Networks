@@ -1,5 +1,5 @@
 # Adaptively Connected Neural Networks
-A re-implementation of our CVPR 2019 paper "Adaptively Connected Neural Networks"
+A re-implementation of our CVPR 2019 paper "Adaptively Connected Neural Networks".
 
 [Guangrun Wang](https://wanggrun.github.io/) 
 
