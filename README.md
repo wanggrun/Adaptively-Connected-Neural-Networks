@@ -1,6 +1,7 @@
 # Adaptively Connected Neural Networks
 A re-implementation of our CVPR 2019 paper "Adaptively Connected Neural Networks"
-The code is provided by [Guangrun Wang](https://wanggrun.github.io/) 
+
+[Guangrun Wang](https://wanggrun.github.io/) 
 
 Sun Yat-sen University (SYSU)
 
@@ -19,7 +20,7 @@ This repository contains the training & testing code on [ImageNet](http://image-
 
 + Training and testing curve on ImageNet：
 
-   [curves](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/intro.jpg)
+   ![curves](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/intro.jpg)
    
    
 
