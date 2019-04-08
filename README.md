@@ -5,7 +5,12 @@ A re-implementation of our CVPR 2019 paper "Adaptively Connected Neural Networks
 
 Sun Yat-sen University (SYSU)
 
-![intro](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/error.jpg)
+
+
+![intro](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/intro.jpg)
+
+
+
 
 ### Table of Contents
 0. [Introduction](#introduction)
@@ -22,7 +27,7 @@ This repository contains the training & testing code on [ImageNet](http://image-
 
 + Training and testing curve on ImageNet：
 
-   ![curves](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/intro.jpg)
+   ![curves](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/error.jpg)
    
 
 + ImageNet accuracy and pretrained model:
