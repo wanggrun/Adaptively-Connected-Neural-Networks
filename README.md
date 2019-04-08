@@ -12,20 +12,12 @@ Sun Yat-sen University (SYSU)
 
 ### Introduction
 
-This repository contains the training & testing code on [ImageNet](http://image-net.org/challenges/LSVRC/2015/) and [Cora](http://linqs.cs.umd.edu/projects/projects/lbc/) via Adaptively Connected Neural Networks (ACNet). 
+This repository contains the training & testing code on [ImageNet](http://image-net.org/challenges/LSVRC/2015/) and [Cora](http://linqs.cs.umd.edu/projects/projects/lbc/) by Adaptively Connected Neural Networks (ACNet). 
 
 
 ### Results
 
-+ Training and testing curve on ImageNet:
-
-   1. (a) input images; (b) segmentation results.
-        ![segmentation visualization](https://github.com/wanggrun/Learning-Feature-Pyramids/blob/master/results/vis.jpg)
-
-   2. (a) images & ground truths; (b) trimap of learning feature pyramids; (c) trimap of the original ResNet.
-        ![trimaps](https://github.com/wanggrun/Learning-Feature-Pyramids/blob/master/results/trimap.jpg)
-
-   3. It achieves 81.0% mIoU on PASCAL VOC2011 segmentation [leaderboard](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6), a significance improvement over its baseline DeepLabV2 (79.6%).
++ ![Training and testing curve on ImageNet](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/intro.jpg)
 
 ### ImageNet
 
