@@ -23,11 +23,11 @@ This repository contains the training & testing code on [ImageNet](http://image-
    ![curves](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/intro.jpg)
    
 
-+ Table
++ ImageNet accuracy and pretrained model:
 
 | Model            | Top 5 Error | Top 1 Error | Download                                                                          |
 |:-----------------|:------------|:-----------:|:---------------------------------------------------------------------------------:|
-| ResNet50         | 6.85%       | 23.61%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50.npz)         |
+| ResNet50         | 6.9%       | 23.6%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50.npz)         |
 | ResNet50-ACNet   | 6.4%       | 22.5%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50-SE.npz)      |
 | ResNet50-ACNet-pixel-aware| 6.4%       | 22.5%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet101.npz)        |
 
@@ -83,20 +83,6 @@ cd pyramid/VOC/
 python gr_test_pad_crf_msc_flip.py 
 ```
 
-
-+ Trained Models:
-
-   Model trained for evaluation on voc val set:
-
-   [Baidu Pan](https://pan.baidu.com/s/1C7r10EeZEOIn0njRCuuR1g), code: 7dl0
-
-   [Google Drive](https://drive.google.com/drive/folders/1c3Fr6yC_rwXGF4hJB4ADmtd2AF8wsO51?usp=sharing)
-
-   Model trained for evaluation on voc leaderboard (test set)
-
-   [Baidu Pan](https://pan.baidu.com/s/1C7r10EeZEOIn0njRCuuR1g), code: 7dl0
-
-   [Google Drive](https://drive.google.com/drive/folders/1c3Fr6yC_rwXGF4hJB4ADmtd2AF8wsO51?usp=sharing)
 
 ### Citation
 
