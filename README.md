@@ -42,12 +42,12 @@ This repository contains the training & testing code on [ImageNet](http://image-
 | ResNet50-ACNet   | 6.4%       | 22.5%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50-SE.npz)      |
 | ResNet50-ACNet-pixel-aware| 6.4%       | 22.5%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet101.npz)        |
 
-### ImageNet
 
 + Training script:
 ```
-cd pyramid/ImageNet/
-python imagenet-resnet.py   --gpu 0,1,2,3,4,5,6,7   --data_format NHWC  -d 101  --mode resnet --data  [ROOT-OF-IMAGENET-DATASET]
+cd cnn/dataset-aware/
+
+python imagenet-resnet.py  --gpu 0,1,2,3,4,5,6,7   --data [ROOT-OF-IMAGENET-DATASET]  --log_dir  [ROOT-OF-LOG-AND-MODEL] 
 ```
 
 + Testing script:
