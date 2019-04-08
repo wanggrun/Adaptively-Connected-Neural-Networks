@@ -1,5 +1,5 @@
 # Adaptively Connected Neural Networks
-A re-implementation of our CVPR 2019 paper "Adaptively Connected Neural Networks"
+A re-implementation of our CVPR 2019 paper "Adaptively Connected Neural Networks".
 
 [Guangrun Wang](https://wanggrun.github.io/) 
 
@@ -63,17 +63,18 @@ python imagenet-resnet.py  --gpu 0,1,2,3,4,5,6,7   --data [ROOT-OF-IMAGENET-DATA
 
 # Cora
 
+Coming soon ...
+
 # Citation
 
 If you use these models in your research, please cite:
 
-	@inproceedings{yang2017learning,
-            title={Learning feature pyramids for human pose estimation},
-            author={Yang, Wei and Li, Shuang and Ouyang, Wanli and Li, Hongsheng and Wang, Xiaogang},
-            booktitle={The IEEE International Conference on Computer Vision (ICCV)},
-            volume={2},
-            year={2017}
-        }
+@inproceedings{wang2017learning,
+  title={Adaptively Connected Neural Networks},
+  author={Wang, Guangrun and Wang, Keze and Lin, Liang},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2019}
+}
 
 # Dependencies
 + Python 2.7 or 3
