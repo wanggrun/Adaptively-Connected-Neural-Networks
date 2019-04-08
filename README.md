@@ -28,7 +28,8 @@ This repository contains the training & testing code on [ImageNet](http://image-
 + Training and testing curve on ImageNet：
 
 
-           ![curves](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/error.jpg)
+
+![curves](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/error.jpg)
 	   
 	   
    
