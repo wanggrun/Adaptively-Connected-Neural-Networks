@@ -12,18 +12,18 @@ Sun Yat-sen University (SYSU)
 
 
 
-### Table of Contents
+# Table of Contents
 0. [Introduction](#introduction)
 0. [ImageNet](#imagenet)
 0. [Cora](#cora)
 0. [Citation](#citation)
 
-### Introduction
+# Introduction
 
 This repository contains the training & testing code on [ImageNet](http://image-net.org/challenges/LSVRC/2015/) and [Cora](http://linqs.cs.umd.edu/projects/projects/lbc/) by Adaptively Connected Neural Networks (ACNet). 
 
 
-### Results
+# ImageNet
 
 + Training and testing curve on ImageNet：
 
