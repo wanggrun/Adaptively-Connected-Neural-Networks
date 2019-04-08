@@ -61,8 +61,9 @@ cd cnn/dataset-aware/ or cd cnn/pixel-aware/
 python imagenet-resnet.py  --gpu 0,1,2,3,4,5,6,7   --data [ROOT-OF-IMAGENET-DATASET]  --log_dir  [ROOT-OF-TEST-LOG] --load   [ROOT-TO-LOAD-MODEL]  --eval
 ```
 
+# Cora
 
-### Citation
+# Citation
 
 If you use these models in your research, please cite:
 
@@ -74,7 +75,7 @@ If you use these models in your research, please cite:
             year={2017}
         }
 
-### Dependencies
+# Dependencies
 + Python 2.7 or 3
 + TensorFlow >= 1.3.0
 + [Tensorpack](https://github.com/ppwwyyxx/tensorpack)
