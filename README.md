@@ -49,15 +49,16 @@ This repository contains the training & testing code on [ImageNet](http://image-
 
 + Training script:
 ```
-cd cnn/dataset-aware/
+cd cnn/dataset-aware/ or cd cnn/pixel-aware/
 
-python imagenet-resnet.py  --gpu 0,1,2,3,4,5,6,7   --data [ROOT-OF-IMAGENET-DATASET]  --log_dir  [ROOT-OF-LOG-AND-MODEL] 
+python imagenet-resnet.py  --gpu 0,1,2,3,4,5,6,7   --data [ROOT-OF-IMAGENET-DATASET]  --log_dir  [ROOT-OF-TRAINING-LOG-AND-MODEL] 
 ```
 
 + Testing script:
 ```
-cd pyramid/ImageNet/
-python imagenet-resnet.py   --gpu 0,1,2,3,4,5,6,7  --load [ROOT-TO-LOAD-MODEL]  --data_format NHWC  -d 101  --mode resnet --data  [ROOT-OF-IMAGENET-DATASET] --eval
+cd cnn/dataset-aware/ or cd cnn/pixel-aware/
+
+python imagenet-resnet.py  --gpu 0,1,2,3,4,5,6,7   --data [ROOT-OF-IMAGENET-DATASET]  --log_dir  [ROOT-OF-TEST-LOG] --load   [ROOT-TO-LOAD-MODEL]  --eval
 ```
 
 
