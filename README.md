@@ -38,7 +38,7 @@ This repository contains the training & testing code of Adaptively Connected Neu
 	   
 	   
 
-+ ImageNet accuracy and pretrained model:
++ ImageNet accuracy and pretrained model (baidu pan code: ow9z):
 
 | Model            | Top 5 Error | Top 1 Error | Download                                                                          |
 |:-----------------|:------------|:-----------:|:---------------------------------------------------------------------------------:|
