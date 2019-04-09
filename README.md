@@ -20,7 +20,7 @@ Sun Yat-sen University (SYSU)
 
 # Introduction
 
-This repository contains the training & testing code on [ImageNet](http://image-net.org/challenges/LSVRC/2015/) and [Cora](http://linqs.cs.umd.edu/projects/projects/lbc/) by Adaptively Connected Neural Networks (ACNet). 
+This repository contains the training & testing code of Adaptively Connected Neural Networks (ACNet) on [ImageNet](http://image-net.org/challenges/LSVRC/2015/) and [Cora](http://linqs.cs.umd.edu/projects/projects/lbc/). 
 
 
 # ImageNet
