@@ -77,9 +77,8 @@ If you use these models in your research, please cite:
   
       booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   
-      year={2019}
-
-}
+      year={2019}}
+      
 
 # Dependencies
 + Python 2.7 or 3
