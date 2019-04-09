@@ -43,8 +43,8 @@ This repository contains the training & testing code of Adaptively Connected Neu
 | Model            | Top 5 Error | Top 1 Error | Download                                                                          |
 |:-----------------|:------------|:-----------:|:---------------------------------------------------------------------------------:|
 | ResNet50         | 6.9%       | 23.6%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50.npz)         |
-| ResNet50-ACNet   | 6.4%       | 22.5%      | [:arrow_down:](https://drive.google.com/open?id=1M0Nb6IKiGdlHy8hOOG_Rcbh861Ve1OeE)   and [:arrow_down:](https://pan.baidu.com/s/1KoaBmK_dr35zkmXXDlyDdA)   |
-| ResNet50-ACNet-pixel-aware| 6.4% | 22.5%   | [:arrow_down:](https://drive.google.com/open?id=1OTV-LFX1VrCxRIHju036uNkNz0aJBhGJ)   and [:arrow_down:](https://pan.baidu.com/s/1KoaBmK_dr35zkmXXDlyDdA)     |
+| ResNet50-ACNet   | 6.4%       | 22.5%      | google drive: [:arrow_down:](https://drive.google.com/open?id=1M0Nb6IKiGdlHy8hOOG_Rcbh861Ve1OeE)   and baidu pan: [:arrow_down:](https://pan.baidu.com/s/1KoaBmK_dr35zkmXXDlyDdA)   |
+| ResNet50-ACNet-pixel-aware| 6.4% | 22.5%   | google drive: [:arrow_down:](https://drive.google.com/open?id=1OTV-LFX1VrCxRIHju036uNkNz0aJBhGJ)   and baidu pan: [:arrow_down:](https://pan.baidu.com/s/1KoaBmK_dr35zkmXXDlyDdA)     |
 
 
 + Training script:
