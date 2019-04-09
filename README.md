@@ -43,8 +43,8 @@ This repository contains the training & testing code on [ImageNet](http://image-
 | Model            | Top 5 Error | Top 1 Error | Download                                                                          |
 |:-----------------|:------------|:-----------:|:---------------------------------------------------------------------------------:|
 | ResNet50         | 6.9%       | 23.6%      | [:arrow_down:](http://models.tensorpack.com/ResNet/ImageNet-ResNet50.npz)         |
-| ResNet50-ACNet   | 6.4%       | 22.5%      | [:arrow_down:](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/edit/master/README.md)      |
-| ResNet50-ACNet-pixel-aware| 6.4%       | 22.5%      | [:arrow_down:]https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/edit/master/README.md)        |
+| ResNet50-ACNet   | 6.4%       | 22.5%      | [:arrow_down:](https://drive.google.com/open?id=1M0Nb6IKiGdlHy8hOOG_Rcbh861Ve1OeE)      |
+| ResNet50-ACNet-pixel-aware| 6.4 | 22.5%    | [:arrow_down:](https://drive.google.com/open?id=1OTV-LFX1VrCxRIHju036uNkNz0aJBhGJ)        |
 
 
 + Training script:
@@ -69,15 +69,15 @@ Coming soon ...
 
 If you use these models in your research, please cite:
 
-@inproceedings{wang2017learning,
+@inproceedings{wang2019adaptively,
   
-  title={Adaptively Connected Neural Networks},
+      title={Adaptively Connected Neural Networks},
   
-  author={Wang, Guangrun and Wang, Keze and Lin, Liang},
+      author={Wang, Guangrun and Wang, Keze and Lin, Liang},
   
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+      booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   
-  year={2019}
+      year={2019}
 
 }
 
