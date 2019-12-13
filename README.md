@@ -1,7 +1,7 @@
 
 # Update
 
-- 2019/12/13: The pytorch implementation of ACNet has been released for the currently popular EfficientNet. [Jump to Pytorch ACNet](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks-Pytorch).
+- 2019/12/13: The pytorch implementation of ACNet has been released for the currently popular EfficientNet and the efficient DNA network families. [Jump to Pytorch ACNet](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks-Pytorch).
 
 
 # Adaptively Connected Neural Networks
