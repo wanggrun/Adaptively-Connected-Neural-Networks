@@ -6,14 +6,18 @@ A re-implementation of our CVPR 2019 paper "Adaptively Connected Neural Networks
 Sun Yat-sen University (SYSU)
 
 
+# Update
+
+- 2019/12/13: The pytorch implementation of ACNet has been released for the currently popular EfficientNet. [Jump to Pytorch ACNet](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks-Pytorch).
+
+
+
 
 ![intro](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks/blob/master/intro.jpg)
 
 
 
-# Update
 
-- 2019/12/13: The pytorch implementation of ACNet has been released for the currently popular EfficientNet. [Jump to Pytorch ACNet](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks-Pytorch).
 
 
 # Table of Contents
