@@ -11,6 +11,10 @@ Sun Yat-sen University (SYSU)
 
 
 
+## Update
+
+- 2019/12/13: The pytorch implementation of ACNet has been released for the currently popular EfficientNet. [Jump to Pytorch ACNet](https://github.com/wanggrun/Adaptively-Connected-Neural-Networks-Pytorch).
+
 
 # Table of Contents
 0. [Introduction](#introduction)
